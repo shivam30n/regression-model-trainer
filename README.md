@@ -73,16 +73,3 @@ If you'd like to contribute to this project, feel free to fork the repository an
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Happy Regression Modeling! 🎉📉
-
-### Key Sections:
-- **Title & Description**: The app's name and what it does.
-- **Features**: Highlight the functionalities of the app.
-- **Getting Started**: Instructions for setting up the app locally.
-- **Important Note**: A caution about data preparation.
-- **Model Choices**: Details on the supported regression models.
-- **Visualizations & Metrics**: Explain the visual feedback and metrics displayed by the app.
-- **Technologies Used**: List of tech stack.
-- **Contributing**: Encourage contributions from other developers.
-- **License**: Include the license type.
-
-
