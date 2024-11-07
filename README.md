@@ -2,7 +2,10 @@
 
 Welcome to the **Regression Model Trainer** app! This app helps you easily train regression models on your dataset without any hassle. With a simple, user-friendly interface, you can upload your data, select the appropriate features, choose a regression model, tune hyperparameters, and visualize predictions—all in one place!
 
+🔗Preview link - https://regression-model-trainer-qwafgh6oo7qnxyxwycuu3o.streamlit.app/
+
 ## ✨ Features
+
 
 - **Upload Dataset**: Easily upload your CSV files for regression model training.
 - **Feature Selection**: Select features and the target variable for training.
